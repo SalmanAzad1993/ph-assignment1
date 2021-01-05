@@ -1,0 +1,75 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 70px;
+    font-weight: 400;
+    font-family: 'Bebas Neue', cursive;
+}
+h2{
+    font-size: 40px;
+    font-weight: 400;
+    font-family: 'Bebas Neue', cursive;
+}
+.header-highlight{
+    color: #363958;
+}
+.text-highlight{
+    color: salmon;
+}
+.blog{
+    color: #3e3e3e;
+    font-weight: 400;
+}
+.link-button{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(salmon,tomato);
+    padding: 15px 50px;
+    border-radius: 5px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    
+}
+#download-logo{
+    width: 5%;
+    padding-top: 50px;
+}
+.latest-projct{
+    background-color: #e5e5e5;
+    height: 800px;
+    padding-left: 10%;
+}
+#alignment{
+    padding-left: 36%;
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+.one-third{
+    width: 25%;
+    float: left;
+    margin-left: 50px;
+    
+}
+.one-third img{
+    width: 100%;
+}
+.single-project{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    height: 37%;
+    background-color: white;
+    padding: 1%;
+    text-align: justify;
+}
