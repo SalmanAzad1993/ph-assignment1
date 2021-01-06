@@ -21,6 +21,7 @@ h2{
 .blog{
     color: #3e3e3e;
     font-weight: 400;
+    margin-top: -50px;
 }
 .link-button{
     color: white;
@@ -72,4 +73,48 @@ section{
     background-color: white;
     padding: 1%;
     text-align: justify;
+}.inquiry-banner{
+    height: 500px;
+}
+.align-inquiry-banner{
+    background-image: url("images/inquiry-bg.png");
+    width: 90%;
+    height: 50%;
+    border-radius: 40px;
+    background-repeat: no-repeat;
+    margin: 100px;
+    background-size: cover;
+    background-position: center;
+}
+#white-highlight{
+    color: white;
+    font-size: 40px;
+    margin-left: 10%;
+    padding-top: 12%;
+}
+#right-align{
+    float: right;
+    padding-top: 9%;
+}
+footer{
+    text-align: center;
+    margin-top: -125px;
+}
+#stay-connected{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    font-weight: 600;
+    color: #696871;
+}
+#mail{
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: -15px;
+    color: #363958;
+}
+.icon-size{
+    height: 30px;
+    width: 30px;
+    padding-right: 20px;
+    margin-top: -15px;
 }
