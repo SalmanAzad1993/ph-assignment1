@@ -30,6 +30,13 @@ h2{
     padding: 15px 50px;
     border-radius: 5px;
 }
+.link-button1{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(salmon,tomato);
+    padding: 15px 30px;
+    border-radius: 5px;
+}
 .half-width{
     width: 40%;
     float: left;
@@ -128,4 +135,17 @@ footer{
 }
 .menu-gap{
     margin-left: 30px;
+}
+h4{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+    font-family: 'Bebas Neue', cursive;
+}
+.review-area{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 20px;
+    height: 70%;
+    background-color: linen;
+    text-align: center;
 }
