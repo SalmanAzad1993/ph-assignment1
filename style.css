@@ -78,7 +78,7 @@ section{
 }
 .align-inquiry-banner{
     background-image: url("images/inquiry-bg.png");
-    width: 90%;
+    width: 85%;
     height: 50%;
     border-radius: 40px;
     background-repeat: no-repeat;
@@ -117,4 +117,15 @@ footer{
     width: 30px;
     padding-right: 20px;
     margin-top: -15px;
+}
+#menubar{
+    text-align: right;
+    padding-right: 5%;
+    font-weight: 600;
+    font-size: 16px;
+    color: #3C3C3C;
+    text-decoration: none;
+}
+.menu-gap{
+    margin-left: 30px;
 }
